@@ -11,6 +11,7 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 [Státní ústav radiační ochrany, v.v.i.](https://www.suro.cz/cz/vyzkum)
 
+[Česká zemědělská univerzita v Praze / Fakulta životního prostředí](https://www.fzp.czu.cz/cs/r-6897-veda-a-vyzkum)
 
 
 
