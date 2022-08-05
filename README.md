@@ -7,8 +7,6 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/logo_MV.png" alt="logo Ministerstva vnitra České Republiky" width="400"/>
 
------
-
 Řešiteli projektu jsou:
 
 [Státní ústav radiační ochrany, v.v.i.](https://www.suro.cz/cz/vyzkum)
