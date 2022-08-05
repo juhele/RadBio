@@ -7,5 +7,12 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/logo_MV.png" alt="logo Ministerstva vnitra České Republiky" width="400"/>
 
+Řešitelé projektu jsou:
+
+[Státní ústav radiační ochrany, v.v.i.](https://www.suro.cz/cz/vyzkum)
+
+
+
+
 Mobilní detektor pro radiační mapování - podobný přístroji SAFECAST bGeigie Nano. 
 Zařízení vyvíjí [Státní ústav radiační ochrany, v. v. i. (SÚRO)](https://www.suro.cz/cz/suro) ve spolupráci s [Ústavem technické a experimentální fyziky ČVUT (ÚTEF)](http://www.utef.cvut.cz/utef)
