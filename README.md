@@ -18,5 +18,6 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 [Jihočeská univerzita v Českých Budějovicích / Zemědělská fakulta](https://www.fzt.jcu.cz/cz/veda-a-vyzkum/vyzkumna-temata)
 
 <img src="Images/loga_web.png" alt="loga řešitelů projektu" width="600"/>
------
+
+
 Software byl vytvořen ve spolupráci s Institutem radiobiologie, Gomel, Bělorusko.
