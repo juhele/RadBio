@@ -25,6 +25,10 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/SW-CR_GUI_thumb.jpg" alt="logo Ministerstva vnitra České Republiky" width="800"/>
 
+- standalone desktop aplikace s grafickým rozhraním, v jazyce Python (SW byl testován na OS Windows 10, Python 3.10 a Kubuntu GNU/Linux Kubuntu 20.04 LTS + Python 3.8)
+- bez mapové vizualizace
+- výstup formou grafu / tabulky, možnost exportu výsledků ve formátu MS Excel
+
 ### RadBio-JE
 
 
