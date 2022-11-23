@@ -23,7 +23,7 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 ### RadBio-ČR
 
-<img src="Images/SW-CR_GUI_thumb.jpg" alt="logo Ministerstva vnitra České Republiky" width="600"/>
+<img src="Images/SW-CR_GUI_thumb.jpg" alt="logo Ministerstva vnitra České Republiky" width="800"/>
 
 ### RadBio-JE
 
