@@ -34,6 +34,12 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/SW_JE_GUI_thumb.jpg" alt="grafické rozhraní aplikace RadBio-JE" width="800"/>
 
+- plugin pro desktop software QGIS (open-source, GNU-GPL)
+- mapovou funkcionalitu poskytuje QGIS
+- plugin se stará o specializované výpočty
+- potřeba jsou mapové podklady se vstupními parametry (vektorové polygonové vrstvy s příslušnými atributy)
+
+
 Software byl vytvořen ve spolupráci s Institutem radiobiologie, Gomel, Bělorusko.
 
 Kód obou programů byl testován nástrojem Bandit, žádné nedostatky nebyly zjištěny.
