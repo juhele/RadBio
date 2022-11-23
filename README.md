@@ -21,6 +21,12 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 ## Softwarové nástroje RadBio-ČR a RadBio-JE
 
+### RadBio-ČR
+
+<img src="Images/SW-CR_GUI_thumb.jpg" alt="logo Ministerstva vnitra České Republiky" width="600"/>
+
+### RadBio-JE
+
 
 
 Software byl vytvořen ve spolupráci s Institutem radiobiologie, Gomel, Bělorusko.
