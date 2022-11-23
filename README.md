@@ -22,4 +22,6 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 Software byl vytvořen ve spolupráci s Institutem radiobiologie, Gomel, Bělorusko.
 
-Kód obou programů byl testován nástrojem Bandit [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit), nebyly zjištěny žádné nedostatky.
+Kód obou programů byl testován nástrojem Bandit 
+[![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
+přičemž nebyly zjištěny žádné nedostatky.
