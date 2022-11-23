@@ -30,7 +30,7 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 - bez mapové vizualizace
 - výstup formou grafu / tabulky, možnost exportu výsledků ve formátu MS Excel
 
-### RadBio-JE
+### RadBio-JE <img src="Images/RadBio_JE_icon.png" alt="ikona RadBio-JE"/>
 
 <img src="Images/SW_JE_GUI_thumb.jpg" alt="grafické rozhraní aplikace RadBio-JE" width="800"/>
 
