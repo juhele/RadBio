@@ -27,7 +27,7 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/SW-CR_GUI_thumb.jpg" alt="grafické rozhraní aplikace RadBio-ČR" width="800"/>
 
-- standalone desktop aplikace s grafickým rozhraním, v jazyce Python (SW byl testován na OS Windows 10, Python 3.10 a Kubuntu GNU/Linux Kubuntu 20.04 LTS + Python 3.8)
+- standalone desktop aplikace s grafickým rozhraním, v jazyce [Python](https://www.python.org/) (SW byl testován na OS Windows 10, Python 3.10 a Kubuntu GNU/Linux Kubuntu 20.04 LTS + Python 3.8)
 - software vyžaduje knihovny PyQt5, matplotlib, pandas, openpyxl (dostupné prostřednictvím Pip instalátoru v rámci Pythonu)
 - bez mapové vizualizace
 - výstup formou grafu / tabulky, možnost exportu výsledků ve formátu MS Excel
