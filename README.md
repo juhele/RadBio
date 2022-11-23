@@ -19,6 +19,9 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/loga_web.png" alt="loga řešitelů projektu" width="600"/>
 
+## Softwarové nástroje RadBio-ČR a RadBio-JE
+
+
 
 Software byl vytvořen ve spolupráci s Institutem radiobiologie, Gomel, Bělorusko.
 
