@@ -48,3 +48,4 @@ Kód obou programů byl testován nástrojem Bandit, žádné nedostatky nebyly 
 
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 
+Oba programy jsou poskytovány pod open-source licencí [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html), neoficiální český překlad licence [k dispozici zde](https://jxself.org/translations/gpl-3.cz.shtml)
