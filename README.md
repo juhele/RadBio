@@ -19,7 +19,7 @@ Software RadBio je jedním z výsledků projektu výzkumu a vývoje "[Optimaliza
 
 <img src="Images/loga_web.png" alt="loga řešitelů projektu" width="600"/>
 
-## Softwarové nástroje RadBio-ČR a RadBio-JE
+## Softwarové nástroje RadBio-CR a RadBio-JE
 - oba nástroje jsou multiplatformní, byly úspěšně provozovány na PC s operačními systémy MS Windows 10 a Kubuntu GNU/Linux, funkčnost v systému Apple MacOS nebylo možné otestovat
 
 
