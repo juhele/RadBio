@@ -1,0 +1,772 @@
+{
+    "rostliny": [
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "1",
+            "Popis": "Obiloviny v\u0161echny"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny ozim\u00e9",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "2",
+            "Popis": "Obiloviny ozim\u00e9"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny ozim\u00e9",
+            "Druh_rostliny": "p\u0161enice ozim\u00e1",
+            "Cast_rostliny": "zrno",
+            "Id": "3",
+            "Popis": "P\u0161enice ozim\u00e1"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny ozim\u00e9",
+            "Druh_rostliny": "tritikale ozim\u00e9",
+            "Cast_rostliny": "zrno",
+            "Id": "4",
+            "Popis": "Tritikale ozim\u00e9"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny ozim\u00e9",
+            "Druh_rostliny": "\u017eito ozim\u00e9",
+            "Cast_rostliny": "zrno",
+            "Id": "5",
+            "Popis": "\u017dito ozim\u00e9"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny ozim\u00e9",
+            "Druh_rostliny": "je\u010dmen ozim\u00fd",
+            "Cast_rostliny": "zrno",
+            "Id": "6",
+            "Popis": "Je\u010dmen ozim\u00fd"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny jarn\u00ed",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "7",
+            "Popis": "Obiloviny jarn\u00ed"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny jarn\u00ed",
+            "Druh_rostliny": "p\u0161enice jarn\u00ed",
+            "Cast_rostliny": "zrno",
+            "Id": "8",
+            "Popis": "P\u0161enice jarn\u00ed"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny jarn\u00ed",
+            "Druh_rostliny": "je\u010dmen jarn\u00ed",
+            "Cast_rostliny": "zrno",
+            "Id": "9",
+            "Popis": "Je\u010dmen jarn\u00ed"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny jarn\u00ed",
+            "Druh_rostliny": "oves jarn\u00ed",
+            "Cast_rostliny": "zrno",
+            "Id": "10",
+            "Popis": "Oves jarn\u00ed"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "obiloviny jarn\u00ed",
+            "Druh_rostliny": "kuku\u0159ice na zrno",
+            "Cast_rostliny": "zrno",
+            "Id": "11",
+            "Popis": "Kuku\u0159ice na zrno"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "p\u0161enice",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "12",
+            "Popis": "P\u0161enice"
+        },
+        {
+            "Skupina": "Obiloviny",
+            "Podskupina": "je\u010dmen",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "13",
+            "Popis": "Je\u010dmen"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "hl\u00edza\u002c bobule a bulva",
+            "Id": "14",
+            "Popis": "Okopaniny v\u0161echny"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny hl\u00edznat\u00e9",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "hl\u00edza",
+            "Id": "15",
+            "Popis": "Okopaniny hl\u00edznat\u00e9"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny hl\u00edznat\u00e9",
+            "Druh_rostliny": "brambor",
+            "Cast_rostliny": "hl\u00edza",
+            "Id": "16",
+            "Popis": "Brambor"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny hl\u00edznat\u00e9",
+            "Druh_rostliny": "topinambur",
+            "Cast_rostliny": "hl\u00edza",
+            "Id": "17",
+            "Popis": "Topinambur"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny tykvovit\u00e9",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "bobule",
+            "Id": "18",
+            "Popis": "Okopaniny tykvovit\u00e9"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny tykvovit\u00e9",
+            "Druh_rostliny": "tykev",
+            "Cast_rostliny": "bobule",
+            "Id": "19",
+            "Popis": "Tykev"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny tykvovit\u00e9",
+            "Druh_rostliny": "meloun",
+            "Cast_rostliny": "bobule",
+            "Id": "20",
+            "Popis": "Meloun"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny bulevnat\u00e9",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "bulva",
+            "Id": "21",
+            "Popis": "Okopaniny bulevnat\u00e9"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny bulevnat\u00e9",
+            "Druh_rostliny": "\u0159epa cukrov\u00e1",
+            "Cast_rostliny": "bulva",
+            "Id": "22",
+            "Popis": "\u0158epa cukrov\u00e1"
+        },
+        {
+            "Skupina": "Okopaniny",
+            "Podskupina": "okopaniny bulevnat\u00e9",
+            "Druh_rostliny": "\u0159epa krmn\u00e1",
+            "Cast_rostliny": "bulva",
+            "Id": "23",
+            "Popis": "\u0158epa krmn\u00e1"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "24",
+            "Popis": "Luskoviny v\u0161echny"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny roz\u0161\u00ed\u0159en\u00e9",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "25",
+            "Popis": "Luskoviny roz\u0161\u00ed\u0159en\u00e9"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny roz\u0161\u00ed\u0159en\u00e9",
+            "Druh_rostliny": "hr\u00e1ch",
+            "Cast_rostliny": "zrno",
+            "Id": "26",
+            "Popis": "Hr\u00e1ch"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny roz\u0161\u00ed\u0159en\u00e9",
+            "Druh_rostliny": "lupina",
+            "Cast_rostliny": "zrno",
+            "Id": "27",
+            "Popis": "Lupina"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny ostatn\u00ed",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "zrno",
+            "Id": "28",
+            "Popis": "Luskoviny ostatn\u00ed"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny ostatn\u00ed",
+            "Druh_rostliny": "fazole",
+            "Cast_rostliny": "zrno",
+            "Id": "29",
+            "Popis": "Fazole"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny ostatn\u00ed",
+            "Druh_rostliny": "\u010do\u010dka",
+            "Cast_rostliny": "zrno",
+            "Id": "30",
+            "Popis": "\u010co\u010dka"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny ostatn\u00ed",
+            "Druh_rostliny": "bob",
+            "Cast_rostliny": "zrno",
+            "Id": "31",
+            "Popis": "Bob"
+        },
+        {
+            "Skupina": "Luskoviny",
+            "Podskupina": "luskoviny ostatn\u00ed",
+            "Druh_rostliny": "vikev",
+            "Cast_rostliny": "zrno",
+            "Id": "32",
+            "Popis": "Vikev"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "semeno",
+            "Id": "33",
+            "Popis": "Olejniny v\u0161echny"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "\u0159epka",
+            "Cast_rostliny": "semeno",
+            "Id": "34",
+            "Popis": "\u0158epka"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "slune\u010dnice",
+            "Cast_rostliny": "semeno",
+            "Id": "35",
+            "Popis": "Slune\u010dnice"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "m\u00e1k",
+            "Cast_rostliny": "semeno",
+            "Id": "36",
+            "Popis": "M\u00e1k"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "s\u00f3ja",
+            "Cast_rostliny": "semeno",
+            "Id": "37",
+            "Popis": "S\u00f3ja"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "ho\u0159\u010dice",
+            "Cast_rostliny": "semeno",
+            "Id": "38",
+            "Popis": "Ho\u0159\u010dice"
+        },
+        {
+            "Skupina": "Olejniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "len",
+            "Cast_rostliny": "semeno",
+            "Id": "39",
+            "Popis": "Len"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "40",
+            "Popis": "P\u00edcniny v\u0161echny"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "41",
+            "Popis": "P\u00edcniny - orn\u00e1 p\u016fda"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "vojt\u011b\u0161ka",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "42",
+            "Popis": "Vojt\u011b\u0161ka"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "bob na zeleno",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "43",
+            "Popis": "Bob na zeleno"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "jetel",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "44",
+            "Popis": "Jetel"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "jetelotr\u00e1va",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "45",
+            "Popis": "Jetelotr\u00e1va"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "svazenka",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "46",
+            "Popis": "Svazenka"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - orn\u00e1 p\u016fda",
+            "Druh_rostliny": "luskovino-obiln\u00e1 sm\u011bska",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "47",
+            "Popis": "Luskovino-obiln\u00e1 sm\u011bska"
+        },
+        {
+            "Skupina": "P\u00edcniny",
+            "Podskupina": "p\u00edcniny - louky a pastviny",
+            "Druh_rostliny": "trval\u00fd travn\u00ed porost",
+            "Cast_rostliny": "cel\u00e1",
+            "Id": "48",
+            "Popis": "P\u00edcniny - louky a pastviny"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "49",
+            "Popis": "Zelenina v\u0161echny"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "listov\u00e1",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "list",
+            "Id": "50",
+            "Popis": "Zelenina listov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "listov\u00e1",
+            "Druh_rostliny": "sal\u00e1t",
+            "Cast_rostliny": "list",
+            "Id": "51",
+            "Popis": "Sal\u00e1t"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "listov\u00e1",
+            "Druh_rostliny": "\u0161pen\u00e1t",
+            "Cast_rostliny": "list",
+            "Id": "52",
+            "Popis": "\u0160pen\u00e1t"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "listov\u00e1",
+            "Druh_rostliny": "kapusta kade\u0159av\u00e1",
+            "Cast_rostliny": "list",
+            "Id": "53",
+            "Popis": "kapusta kade\u0159av\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "54",
+            "Popis": "Zelenina ko\u0161\u0165\u00e1lov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "zel\u00ed",
+            "Cast_rostliny": "plod",
+            "Id": "55",
+            "Popis": "Zel\u00ed"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "kapusta r\u016f\u017ei\u010dkov\u00e1",
+            "Cast_rostliny": "plod",
+            "Id": "56",
+            "Popis": "Kapusta r\u016f\u017ei\u010dkov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "kv\u011bt\u00e1k",
+            "Cast_rostliny": "plod",
+            "Id": "57",
+            "Popis": "Kv\u011bt\u00e1k"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "kedluben",
+            "Cast_rostliny": "plod",
+            "Id": "58",
+            "Popis": "Kedluben"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0161\u0165\u00e1lov\u00e1",
+            "Druh_rostliny": "brokolice",
+            "Cast_rostliny": "plod",
+            "Id": "59",
+            "Popis": "Brokolice"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0159enov\u00e1",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "ko\u0159en",
+            "Id": "60",
+            "Popis": "Zelenina ko\u0159enov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0159enov\u00e1",
+            "Druh_rostliny": "mrkev",
+            "Cast_rostliny": "ko\u0159en",
+            "Id": "61",
+            "Popis": "Mrkev"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0159enov\u00e1",
+            "Druh_rostliny": "celer",
+            "Cast_rostliny": "ko\u0159en",
+            "Id": "62",
+            "Popis": "Celer"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0159enov\u00e1",
+            "Druh_rostliny": "petr\u017eel",
+            "Cast_rostliny": "ko\u0159en",
+            "Id": "63",
+            "Popis": "Petr\u017eel"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "ko\u0159enov\u00e1",
+            "Druh_rostliny": "\u0159edkve",
+            "Cast_rostliny": "ko\u0159en",
+            "Id": "64",
+            "Popis": "\u0158edkve"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "plodov\u00e1",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "65",
+            "Popis": "Zelenina plodov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "plodov\u00e1",
+            "Druh_rostliny": "okurka",
+            "Cast_rostliny": "plod",
+            "Id": "66",
+            "Popis": "Okurka"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "plodov\u00e1",
+            "Druh_rostliny": "raj\u010de",
+            "Cast_rostliny": "plod",
+            "Id": "67",
+            "Popis": "Raj\u010de"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "plodov\u00e1",
+            "Druh_rostliny": "paprika",
+            "Cast_rostliny": "plod",
+            "Id": "68",
+            "Popis": "Paprika"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "cibulov\u00e1",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "cibule",
+            "Id": "69",
+            "Popis": "Zelenina cibulov\u00e1"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "cibulov\u00e1",
+            "Druh_rostliny": "\u010desnek",
+            "Cast_rostliny": "cibule",
+            "Id": "70",
+            "Popis": "\u010cesnek"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "cibulov\u00e1",
+            "Druh_rostliny": "cibule",
+            "Cast_rostliny": "cibule",
+            "Id": "71",
+            "Popis": "Cibule"
+        },
+        {
+            "Skupina": "Zelenina",
+            "Podskupina": "cibulov\u00e1",
+            "Druh_rostliny": "p\u00f3r",
+            "Cast_rostliny": "cibule",
+            "Id": "72",
+            "Popis": "P\u00f3r"
+        },
+        {
+            "Skupina": "Chmel",
+            "Podskupina": "chmelnice",
+            "Druh_rostliny": "chmel ot\u00e1\u010div\u00fd",
+            "Cast_rostliny": "plod",
+            "Id": "73",
+            "Popis": "Chmel ot\u00e1\u010div\u00fd"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "V\u0161echny",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "74",
+            "Popis": "Ovoce v\u0161echny"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "vinice",
+            "Druh_rostliny": "vinn\u00e1 r\u00e9va",
+            "Cast_rostliny": "plod",
+            "Id": "75",
+            "Popis": "Vinn\u00e1 r\u00e9va"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "malvice",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "76",
+            "Popis": "Ovoce malvice"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "malvice",
+            "Druh_rostliny": "jablka",
+            "Cast_rostliny": "plod",
+            "Id": "77",
+            "Popis": "Jablka"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "malvice",
+            "Druh_rostliny": "hru\u0161ky",
+            "Cast_rostliny": "plod",
+            "Id": "78",
+            "Popis": "Hru\u0161ky"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "malvice",
+            "Druh_rostliny": "je\u0159abiny",
+            "Cast_rostliny": "plod",
+            "Id": "79",
+            "Popis": "Je\u0159abiny"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "80",
+            "Popis": "Ovoce peckovice"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "\u0161vestky",
+            "Cast_rostliny": "plod",
+            "Id": "81",
+            "Popis": "\u0160vestky"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "t\u0159e\u0161n\u011b",
+            "Cast_rostliny": "plod",
+            "Id": "82",
+            "Popis": "T\u0159e\u0161n\u011b"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "vi\u0161n\u011b",
+            "Cast_rostliny": "plod",
+            "Id": "83",
+            "Popis": "Vi\u0161n\u011b"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "meru\u0148ky",
+            "Cast_rostliny": "plod",
+            "Id": "84",
+            "Popis": "Meru\u0148ky"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "peckovice",
+            "Druh_rostliny": "broskve",
+            "Cast_rostliny": "plod",
+            "Id": "85",
+            "Popis": "Broskve"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "86",
+            "Popis": "Ovoce bobule"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "ryb\u00edz",
+            "Cast_rostliny": "plod",
+            "Id": "87",
+            "Popis": "Ryb\u00edz"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "angre\u0161t",
+            "Cast_rostliny": "plod",
+            "Id": "88",
+            "Popis": "Angre\u0161t"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "maliny",
+            "Cast_rostliny": "plod",
+            "Id": "89",
+            "Popis": "Maliny"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "jahody",
+            "Cast_rostliny": "plod",
+            "Id": "90",
+            "Popis": "Jahody"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "ostru\u017einy",
+            "Cast_rostliny": "plod",
+            "Id": "91",
+            "Popis": "Ostru\u017einy"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "bobule",
+            "Druh_rostliny": "bor\u016fvky",
+            "Cast_rostliny": "plod",
+            "Id": "92",
+            "Popis": "Bor\u016fvky"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "such\u00e9 plody",
+            "Druh_rostliny": "V\u0161echny",
+            "Cast_rostliny": "plod",
+            "Id": "93",
+            "Popis": "Ovoce such\u00e9 plody"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "such\u00e9 plody",
+            "Druh_rostliny": "o\u0159echy",
+            "Cast_rostliny": "plod",
+            "Id": "94",
+            "Popis": "O\u0159echy"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "such\u00e9 plody",
+            "Druh_rostliny": "mandle",
+            "Cast_rostliny": "plod",
+            "Id": "95",
+            "Popis": "Mandle"
+        },
+        {
+            "Skupina": "Ovoce",
+            "Podskupina": "such\u00e9 plody",
+            "Druh_rostliny": "ka\u0161tany",
+            "Cast_rostliny": "plod",
+            "Id": "96",
+            "Popis": "Ka\u0161tany"
+        }
+    ]
+}
