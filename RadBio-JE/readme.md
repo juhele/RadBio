@@ -6,7 +6,7 @@ Abyste mohli nástroj RadBio-JE používat,  potřebujete open-source program QG
 
 ## Fiktivní demo data pro testování software RadBio-JE
 
-Jedná se o datovou vrstvu formátu [OGC GeoPackage](www.geopackage.org), v souřadnicovém systému [WGS 84 / UTM zone 33N (EPSG:32633)]([www.geopackage.org](https://epsg.io/32633). Struktura dat odpovídá “ostrým” datům, demo data jsou tedy vhodná nejen k vyzkoušení software, ale také jako šablona pro vytvoření vlastní vrstvy vstupních dat.
+Jedná se o datovou vrstvu formátu [OGC GeoPackage](www.geopackage.org), v souřadnicovém systému [WGS 84 / UTM zone 33N (EPSG:32633)](https://epsg.io/32633). Struktura dat odpovídá “ostrým” datům, demo data jsou tedy vhodná nejen k vyzkoušení software, ale také jako šablona pro vytvoření vlastní vrstvy vstupních dat.
 
 Hranice políček jsou fiktivní, nicméně respektují hranice reálných administrativních jednotek ČR (data [RÚIAN]([www.geopackage.org](https://www.cuzk.cz/ruian/))), tj. údaje o katastru, kraji ap. odpovídají realitě. 
 
