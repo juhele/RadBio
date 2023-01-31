@@ -10,8 +10,7 @@ Jedná se o datovou vrstvu formátu [OGC GeoPackage](https://www.geopackage.org/
 
 Hranice políček jsou fiktivní, nicméně respektují hranice reálných administrativních jednotek ČR (data [RÚIAN]([www.geopackage.org](https://www.cuzk.cz/ruian/))), tj. údaje o katastru, kraji ap. odpovídají realitě. 
 
-Klimatická data. Srážková i teplotní data byla získána z otevřených dat, která uvolnil Český hydrometeorologický ústav (ČHMÚ). Atributy byly získány zpracováním denních dat ze stanic ČHMÚ za období 1991-2020 vlastními prostředky - využit byl software R-Project, SAGA GIS a další. SW v současné době klimatická data nevyužívá.
-(odkaz https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb )
+Klimatická data. Srážková i teplotní data byla získána z [otevřených dat, která uvolnil Český hydrometeorologický ústav (ČHMÚ)](https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb). Atributy byly získány zpracováním denních dat ze stanic ČHMÚ za období 1991-2020 vlastními prostředky - využit byl software R-Project, SAGA GIS a další. SW v současné době klimatická data nevyužívá.
 
 Data o radioaktivní kontaminaci půdy (plošná aktivita radionuklidů Cs-137, Sr-90, Pu-240 ve spadu, Bq/m2). Hodnoty plošných aktivit uvedených radionuklidů jsou fiktivní; všechny byly odvozeny z plošné kontaminace Cs-137 zjištěné krátce po černobylské havárii.
 
