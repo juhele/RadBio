@@ -8,7 +8,7 @@ Abyste mohli nástroj RadBio-JE používat,  potřebujete open-source program QG
 
 Jedná se o datovou vrstvu formátu [OGC GeoPackage](https://www.geopackage.org/), v souřadnicovém systému [WGS 84 / UTM zone 33N (EPSG:32633)](https://epsg.io/32633). Struktura dat odpovídá “ostrým” datům, demo data jsou tedy vhodná nejen k vyzkoušení software, ale také jako šablona pro vytvoření vlastní vrstvy vstupních dat.
 
-Hranice políček jsou fiktivní, nicméně respektují hranice reálných administrativních jednotek ČR (data [RÚIAN]([www.geopackage.org](https://www.cuzk.cz/ruian/))), tj. údaje o katastru, kraji ap. odpovídají realitě. 
+Hranice políček jsou fiktivní, nicméně respektují hranice reálných administrativních jednotek ČR (data [RÚIAN](https://www.cuzk.cz/ruian/)), tj. údaje o katastru, kraji ap. odpovídají realitě. 
 
 Klimatická data. Srážková i teplotní data byla získána z [otevřených dat, která uvolnil Český hydrometeorologický ústav (ČHMÚ)](https://www.chmi.cz/historicka-data/pocasi/denni-data/Denni-data-dle-z.-123-1998-Sb). Atributy byly získány zpracováním denních dat ze stanic ČHMÚ za období 1991-2020 vlastními prostředky - využit byl software [R-Project](https://www.r-project.org/), SAGA GIS a další. SW v současné době klimatická data nevyužívá.
 
