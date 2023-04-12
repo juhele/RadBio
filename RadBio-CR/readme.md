@@ -16,9 +16,9 @@
 - software vyžaduje knihovny PyQt5, matplotlib, pandas, openpyxl
 - ve Windows je tedy potřeba spustit program "Příkazový řádek" (též zvaný "cmd", najdete v Nabídce start nebo pomocí vyhledávání)
 - do cmd následně zadáme příkaz 
-                
-pip3 install PyQt5 
-                
+       
+    > pip3 install PyQt5 
+
 - a potvrdíme klávesou Enter
 - analogicky musíme zopakovat pro zbytek knihoven, tedy postupně zadat
 pip3 install matplotlib
