@@ -1,9 +1,9 @@
 ## RadBio-JE - systémové a programové požadavky
 
-**podporované ooperační systémy:**
+**podporované operační systémy:**
 - MS Windows (testováno na 64bit OS Windows 10 Home / Professional)
 - GNU/linux (testováno na Kubuntu linux verzí 20.04 LTS a 22.04.2 LTS)
-- funkčnost v systému Mac OS nebylo možné otestovat
+- ?Mac OS - funkčnost v systému Mac OS nebylo možné otestovat
 
 **program QGIS**
 - nástroj RadBio-JE vyžaduje nainstalovaný program QGIS
