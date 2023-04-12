@@ -1,7 +1,7 @@
 
 ## Instalace RadBio-JE
 
-Abyste mohli nástroj RadBio-JE používat,  potřebujete open-source program QGIS, který si bezplatně - pro firemní použití je doporučována aktuální LTR verze QGIS 3.28.5 'Firenze'- instalační soubor pro 64bit Windows [stáhnete zde](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.5-1.msi), další varianty instalačních balíčků (např. pro systémy GNU/Linux a Mac OS) jsou k dispozici na  [webu QGIS.org](https://www.qgis.org/en/site/forusers/download.html). Podrobný postup instalace najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio%20-%20Dokumentace%20k%20SW%20-%20k%2030.1.23.pdf) od strany 13.
+Abyste mohli nástroj RadBio-JE používat,  potřebujete open-source program QGIS, který si bezplatně - pro firemní použití je doporučována aktuální LTR verze QGIS 3.28.5 'Firenze'- [instalační soubor pro 64bit Windows stáhnete zde](https://qgis.org/downloads/QGIS-OSGeo4W-3.28.5-1.msi), další varianty instalačních balíčků (např. pro systémy GNU/Linux a Mac OS) jsou k dispozici na  [webu QGIS.org](https://www.qgis.org/en/site/forusers/download.html). Podrobný postup instalace najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio%20-%20Dokumentace%20k%20SW%20-%20k%2030.1.23.pdf) od strany 13.
 
 
 ## Fiktivní demo data pro testování software RadBio-JE
