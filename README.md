@@ -4,6 +4,10 @@
 
 **Rychlé odkazy na software - instalační soubory a návod k instalaci:**
 
+[**RadBio-JE**](https://github.com/juhele/RadBio/tree/main/RadBio-JE)
+
+[**RadBio-CR**](https://github.com/juhele/RadBio/tree/main/RadBio-CR)
+
 **Video na Youtube:**
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vM-sRPEXvow/0.jpg)](https://www.youtube.com/watch?v=vM-sRPEXvow)
