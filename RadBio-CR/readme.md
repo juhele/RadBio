@@ -21,6 +21,9 @@
 
 - a potvrdíme klávesou Enter
 - analogicky musíme zopakovat pro zbytek knihoven, tedy postupně zadat
+
     > pip3 install matplotlib
+    > 
     > pip3 install pandas
+    > 
     > pip3 install openpyxl
