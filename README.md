@@ -4,7 +4,7 @@
 
 **Rychlé odkazy na software - instalační soubory a návod k instalaci:**
 
-[**RadBio-JE**](https://github.com/juhele/RadBio/tree/main/RadBio-JE) [**RadBio-CR**](https://github.com/juhele/RadBio/tree/main/RadBio-CR)
+[**RadBio-JE**](https://github.com/juhele/RadBio/tree/main/RadBio-JE)        [**RadBio-CR**](https://github.com/juhele/RadBio/tree/main/RadBio-CR)
 
 **Video na Youtube:**
 
