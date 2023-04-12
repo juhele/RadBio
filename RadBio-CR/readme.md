@@ -34,6 +34,6 @@
 
 ## Instalace RadBio-ČR
 
-- samotný nástroj RadBio-ČR se neinstaluje, stačí pouze stažený [ZIP soubor]([https://github.com/juhele/RadBio/blob/main/RadBio-JE/sw_je_QGIS_plugin_v1_0.zip](https://github.com/juhele/RadBio/blob/main/RadBio-CR/2023_01_17_RadBio_CR_1.0.zip)) - stáhnete kliknutím na tlačítko Download, rozbalit na disk v počítači a program spustit dvojklikem na soubor RadBio_CR.py
+- samotný nástroj RadBio-ČR se neinstaluje, stačí pouze stažený [ZIP soubor](https://github.com/juhele/RadBio/blob/main/RadBio-CR/2023_01_17_RadBio_CR_1.0.zip) - stáhnete kliknutím na tlačítko Download, rozbalit na disk v počítači a program spustit dvojklikem na soubor RadBio_CR.py
 
 **Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio%20-%20Dokumentace%20k%20SW%20-%20k%2030.1.23.pdf) od strany 8**
