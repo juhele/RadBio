@@ -1,5 +1,7 @@
 ## RadBio-JE - systémové a programové požadavky
 
+*Informace na úvod - pro používání software RadBio-ČR musí mít uživatel alespoň základní zkušenost s programy typu [GIS](https://cs.wikipedia.org/wiki/Geografick%C3%BD_informa%C4%8Dn%C3%AD_syst%C3%A9m) - když ne přímo s programem [QGIS](https://cs.wikipedia.org/wiki/QGIS), tak alespoň s podobným - jako je např. [ArcGIS](https://cs.wikipedia.org/wiki/ArcGIS), tj. jisté základní znalosti týkající se práce s geografickými daty, vrstvami ap.*
+
 **podporované operační systémy:**
 - MS Windows (testováno na 64bit OS Windows 10 Home / Professional)
 - GNU/linux (testováno na Kubuntu linux verzí 20.04 LTS a 22.04.2 LTS)
