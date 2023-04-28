@@ -24,16 +24,15 @@ Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github
 ## Snadno použitelné online podkladové mapy pro QGIS
 
 
-*Varianta a)*
+**Varianta a)**
 - myší chytněte v soubor *.qlr v této složce a přetáhněte ho do mapového okna QGISu
 
-*Varianta b)*
+**Varianta b)**
 - spustťe QGIS a vrstvu přidejte přes hlavní menu: Vrstva / Přidat vrstvu z definičního souboru
 
-Systémové a programové požadavky
+**Systémové a programové požadavky**
 
 - nainstalovaný program QGIS verze 3.x
-
 - připojení k internetu - qlr soubor funguje podobně jako zástupce, jen uživateli ušetří nutnost ručně konfigurovat připojení k online mapovému zdroji nebo nutnost instalovat QGIS plugin typu OpenLayers či QuickMapServices
 
 
