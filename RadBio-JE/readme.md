@@ -32,10 +32,11 @@ Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github
 **Varianta b)**
 - spustťe QGIS a vrstvu přidejte přes hlavní menu: Vrstva / Přidat vrstvu z definičního souboru
 
-**Systémové a programové požadavky**
+**Systémové a programové požadavky, podmínky používání**
 
 - nainstalovaný program QGIS verze 3.x - viz požadavky RadBio-JE
 - připojení k internetu - qlr soubor funguje podobně jako zástupce, jen uživateli ušetří nutnost ručně konfigurovat připojení k online mapovému zdroji nebo nutnost instalovat QGIS plugin typu OpenLayers či QuickMapServices
+- ZIP soubor obsahuje QLR soubory pro mapové vrstvy následujících poskytovatelů (odkaz vede vždy na stránku s podmínkami využití): [OpenStreetMap](https://www.openstreetmap.org/copyright/en), [OpenTopoMap](https://opentopomap.org/about) a [ČÚZK Ortofoto](https://geoportal.cuzk.cz/(S(mpvhftlg5eclay1hnmqrub0g))/Default.aspx?menu=3121&mode=TextMeta&side=wms.verejne&metadataID=CZ-CUZK-WMS-ORTOFOTO-P&metadataXSL=metadata.sluzba)
 
 
 ## Fiktivní demo data pro testování software RadBio-JE
