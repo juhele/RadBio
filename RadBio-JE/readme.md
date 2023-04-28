@@ -23,6 +23,8 @@ Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github
 
 ## Snadno použitelné online podkladové mapy pro QGIS
 
+**Stažení**
+- stáhněte si soubor [QGIS_Mapovy_podklad_online.zip](https://github.com/juhele/RadBio/blob/main/RadBio-JE/QGIS_Mapovy_podklad_online.zip) do počítače a rozbalte jeho obsah na disk, kromě textového souboru s informacemi tam najdete několik souborů s příponou QLR (QGIS Layer Definition file), které zde fungují jako zástupce pro snadné načtení mapy
 
 **Varianta a)**
 - myší chytněte v soubor *.qlr v této složce a přetáhněte ho do mapového okna QGISu
@@ -32,7 +34,7 @@ Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github
 
 **Systémové a programové požadavky**
 
-- nainstalovaný program QGIS verze 3.x
+- nainstalovaný program QGIS verze 3.x - viz požadavky RadBio-JE
 - připojení k internetu - qlr soubor funguje podobně jako zástupce, jen uživateli ušetří nutnost ručně konfigurovat připojení k online mapovému zdroji nebo nutnost instalovat QGIS plugin typu OpenLayers či QuickMapServices
 
 
