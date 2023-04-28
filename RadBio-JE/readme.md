@@ -21,6 +21,22 @@ Nástroj RadBio-JE je tzv. plugin / zásuvný modul pro QGIS - [ZIP soubor s plu
 Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio%20-%20Dokumentace%20k%20SW%20-%20k%2030.1.23.pdf) od strany 13. 
 
 
+## Snadno použitelné online podkladové mapy pro QGIS
+
+
+*Varianta a)*
+- myší chytněte v soubor *.qlr v této složce a přetáhněte ho do mapového okna QGISu
+
+*Varianta b)*
+- spustťe QGIS a vrstvu přidejte přes hlavní menu: Vrstva / Přidat vrstvu z definičního souboru
+
+Systémové a programové požadavky
+
+- nainstalovaný program QGIS verze 3.x
+
+- připojení k internetu - qlr soubor funguje podobně jako zástupce, jen uživateli ušetří nutnost ručně konfigurovat připojení k online mapovému zdroji nebo nutnost instalovat QGIS plugin typu OpenLayers či QuickMapServices
+
+
 ## Fiktivní demo data pro testování software RadBio-JE
 
 Jedná se o datovou vrstvu formátu [OGC GeoPackage](https://www.geopackage.org/), v souřadnicovém systému [WGS 84 / UTM zone 33N (EPSG:32633)](https://epsg.io/32633). Struktura dat odpovídá “ostrým” datům, demo data jsou tedy vhodná nejen k vyzkoušení software, ale také jako šablona pro vytvoření vlastní vrstvy vstupních dat.
