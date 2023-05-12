@@ -7,8 +7,12 @@
 **Stažení souborů:**
 
 Všechny soubory jsou k dispozici ze sdílené složky na serveru MediaFire, kam se dostanete kliknutím [na tento odkaz](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio)
+Zobrazí se vám složka s výpisem souborů:
 
-[na tento odkaz]([url](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio)){:target="_blank"}
+<img src="Images/radbio_download1.png" alt="Mediafire - složka" width="800"/>
+
+
+, kliknutím myší na konkrétní soubor  
 
 
 <img src="Images/SW-CR_GUI_thumb.jpg" alt="grafické rozhraní aplikace RadBio-ČR" width="800"/>
