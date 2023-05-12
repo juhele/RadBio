@@ -4,6 +4,14 @@
 
 *Děkujeme!*
 
+**Stažení souborů:**
+
+Všechny soubory jsou k dispozici ze sdílené složky na serveru MediaFire, kam se dostanete kliknutím [na tento odkaz](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio)
+
+[na tento odkaz]([url](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio)){:target="_blank"}
+
+<img src="Images/SW-CR_GUI_thumb.jpg" alt="grafické rozhraní aplikace RadBio-ČR" width="800"/>
+
 **Rychlé odkazy na software - instalační soubory a návod k instalaci:**
 
 [**RadBio-JE**  (SW pro okolí JE, QGIS plugin)](https://github.com/juhele/RadBio/tree/main/RadBio-JE)
