@@ -13,7 +13,7 @@ Zobrazí se vám složka s výpisem souborů (stahovat lze pouze po jednom soubo
 
 kliknutím myší na konkrétní soubor  
 
-<img src="Images/radbio_download2.png" alt="Mediafire - stažení souboru" width="800"/>
+<img src="Images/radbio_download2.png" alt="Mediafire - stažení souboru" width="600"/>
 
 
 **Rychlé odkazy na software - instalační soubory a návod k instalaci:**
