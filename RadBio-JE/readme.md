@@ -18,7 +18,7 @@ Nástroj RadBio-JE je tzv. plugin / zásuvný modul pro QGIS - [instalační sou
 
 *Zásuvné moduly / Zpráva a instalace Zásuvných modulů / Instalovat ze ZIPu*
 
-Podrobný postup instalace vč. obrázků najdete v [dokumentaci](/stazeni_software.md) od strany 13. 
+Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio_-_Dokumentace_k_SW.pdf) od strany 13. 
 
 
 ## Snadno použitelné online podkladové mapy pro QGIS
@@ -51,5 +51,5 @@ Data o radioaktivní kontaminaci půdy (plošná aktivita radionuklidů Cs-137, 
 
 Data typů a druhů půd a hodnoty agrochemických charakteristik jsou fiktivní, neodpovídají reálné situaci.
 
-Podrobnosti tvorby demo dat jsou uvedeny v [dokumentaci](/stazeni_software.md).
+Podrobnosti tvorby demo dat jsou uvedeny v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio_-_Dokumentace_k_SW.pdf).
 
