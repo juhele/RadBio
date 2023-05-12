@@ -14,11 +14,11 @@
 
 ## Instalace RadBio-JE
 
-Nástroj RadBio-JE je tzv. plugin / zásuvný modul pro QGIS - [ZIP soubor s pluginem stáhnete zde](https://github.com/juhele/RadBio/blob/main/RadBio-JE/sw_je_QGIS_plugin_v1_0.zip) kliknutím na tlačítko Download, instalace probíhá přímo z nerozbaleného ZIP souboru přes menu QGISu:
+Nástroj RadBio-JE je tzv. plugin / zásuvný modul pro QGIS - [instalační soubor - viz informace zde](/stazeni_software.md) kliknutím na tlačítko Download, instalace probíhá přímo z nerozbaleného ZIP souboru přes menu QGISu:
 
 *Zásuvné moduly / Zpráva a instalace Zásuvných modulů / Instalovat ze ZIPu*
 
-Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio%20-%20Dokumentace%20k%20SW%20-%20k%2030.1.23.pdf) od strany 13. 
+Podrobný postup instalace vč. obrázků najdete v [dokumentaci](/stazeni_software.md) od strany 13. 
 
 
 ## Snadno použitelné online podkladové mapy pro QGIS
