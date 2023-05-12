@@ -6,7 +6,7 @@
 
 **Stažení souborů:**
 
-Všechny soubory jsou k dispozici ze sdílené složky na serveru MediaFire, kam se dostanete kliknutím [na tento odkaz](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio). 
+Všechny soubory jsou k dispozici ze sdílené složky na serveru MediaFire, kam se dostanete kliknutím [**na tento odkaz**](https://www.mediafire.com/folder/hjy3a6hgl4cwp/RadBio). 
 Zobrazí se vám složka s výpisem souborů (stahovat lze pouze po jednom souboru):
 
 <img src="Images/radbio_download1.png" alt="Mediafire - složka" width="800"/>
