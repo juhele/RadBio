@@ -34,6 +34,6 @@
 
 ## Instalace RadBio-ČR
 
-- samotný nástroj RadBio-ČR se neinstaluje, stačí pouze stažený [ZIP soubor](https://github.com/juhele/RadBio/blob/main/RadBio-CR/2023_01_17_RadBio_CR_1.0.zip) (stáhnete kliknutím na tlačítko Download), rozbalit na disk v počítači a program spustit dvojklikem na soubor RadBio_CR.py
+- samotný nástroj RadBio-ČR se neinstaluje, stačí pouze stažený [ZIP soubor - viz informace zde](/stazeni_software.md), stažený ZIP je potřeba rozbalit na disk v počítači a program spustit dvojklikem na soubor RadBio_CR.py
 
 **Podrobný postup instalace vč. obrázků najdete v [dokumentaci](https://github.com/juhele/RadBio/blob/main/RadBio_-_Dokumentace_k_SW.pdf) od strany 8**
