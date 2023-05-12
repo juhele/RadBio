@@ -11,7 +11,9 @@ Zobrazí se vám složka s výpisem souborů (stahovat lze pouze po jednom soubo
 
 <img src="Images/radbio_download1.png" alt="Mediafire - složka" width="800"/>
 
-Dokumenty jsou ke stažení přímo ve formě PDF, software je pak distribuován v ZIP archivech. 
+Dokumenty jsou ke stažení přímo ve formě PDF, software je pak distribuován v ZIP archivech. RadBio-JE (SW pro okolí JE, QGIS plugin) se instaluje přímo ze ZIP souboru z QGISu, v případě 
+RadBio-CR (SW pro celou ČR, samostatná aplikace) bude po stažení potřeba ZIP rozbalit. ZIP archivy nejsou chráněny heslem, lze je tedy bez problému otestovat antivirovými nástroji ještě před rozbalením / instalací. Podrobnější postup se dozvíte v návodech na instalaci zmíněných níže.
+
 Kliknutím myší na konkrétní soubor jste přesměrování na stránku pro stažení - kliknutím na modré tlačítko Download stáhnete soubor:
 
 <img src="Images/radbio_download2.png" alt="Mediafire - stažení souboru" width="600"/>
