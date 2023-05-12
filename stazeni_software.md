@@ -19,7 +19,7 @@ Kliknutím myší na konkrétní soubor jste přesměrování na stránku pro st
 <img src="Images/radbio_download2.png" alt="Mediafire - stažení souboru" width="600"/>
 
 
-**Rychlé odkazy na software - instalační soubory a návod k instalaci:**
+**Návod k instalaci:**
 
 [**RadBio-JE**  (SW pro okolí JE, QGIS plugin)](https://github.com/juhele/RadBio/tree/main/RadBio-JE)
 
