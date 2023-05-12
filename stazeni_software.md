@@ -1,6 +1,8 @@
-# RadBio - softwarový nástroj pro odhad kontaminace rostlinné  biomasy na území zasaženém jadernou havárií
+# RadBio - stažení software
 
-*Po radiační havárii mohou být radionuklidy kontaminovány rozsáhlé plochy určené k zemědělské produkci, a tím velmi omezeny možnosti využívání krajiny. Obnovení zemědělské činnosti na zasaženém území proto bude jednou z hlavních priorit. K tomu by měl pomoci i vyvinutý software RadBio, umožňující odhadnout kontaminaci biomasy rostlin na základě informací o půdních charakteristikách a velikosti kontaminace půdy.*
+*V souladu s požadavkem poskytovatele projektu - Ministerstva vnitra České Republiky (dále jen MV) - musíme provádět sběr dat o uživatelích software RadBio. Statistické vyhodnocení těchto informací bude využito v dokumentech poskytovaných MV, jména konkrétních osob ani emailové adresy nebudou součástí těchto vyhodnocení. Proto Vás prosíme před stažením software o vyplnění [**tohoto krátkého dotazníku**](https://forms.gle/WHuAGPF6k2S6qLFG6) tohoto krátkého dotazníku.
+
+Děkujeme!*
 
 **Rychlé odkazy na software - instalační soubory a návod k instalaci:**
 
