@@ -51,5 +51,5 @@ Data o radioaktivní kontaminaci půdy (plošná aktivita radionuklidů Cs-137, 
 
 Data typů a druhů půd a hodnoty agrochemických charakteristik jsou fiktivní, neodpovídají reálné situaci.
 
-Podrobnosti tvorby demo dat jsou uvedeny v [Dokumentaci k SW](https://github.com/juhele/RadBio/blob/main/RadBio_-_Dokumentace_k_SW.pdf).
+Podrobnosti tvorby demo dat jsou uvedeny v [dokumentaci](/stazeni_software.md).
 
