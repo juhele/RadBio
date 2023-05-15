@@ -1,3 +1,4 @@
+**Rychlé odkazy na software - [instalační soubory a návod k instalaci najdete zde](/stazeni_software.md).**
 
 ## RadBio-ČR - systémové a programové požadavky
 
