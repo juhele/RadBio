@@ -1,3 +1,5 @@
+**Rychlé odkazy na software - [instalační soubory a návod k instalaci najdete zde](/stazeni_software.md).**
+
 ## RadBio-JE - systémové a programové požadavky
 
 *Informace na úvod - pro používání software RadBio-ČR musí mít uživatel alespoň základní zkušenost s programy typu [GIS](https://cs.wikipedia.org/wiki/Geografick%C3%BD_informa%C4%8Dn%C3%AD_syst%C3%A9m) - když ne přímo s programem [QGIS](https://cs.wikipedia.org/wiki/QGIS), tak alespoň s podobným - jako je např. [ArcGIS](https://cs.wikipedia.org/wiki/ArcGIS), tj. jisté základní znalosti týkající se práce s geografickými daty, vrstvami ap.*
